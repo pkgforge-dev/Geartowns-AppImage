@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Geartowns
+Comment="FM Towns emulator"
+Exec=geartowns
+Icon=image
+StartupWMClass=geartowns
+Categories=Game;Emulator
+Terminal=false
